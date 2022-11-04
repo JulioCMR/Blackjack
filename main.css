@@ -1,0 +1,36 @@
+/* Blackjack main CSS file */
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: whitesmoke;
+    background: url(/BlackJack/img/table.png);
+    background-size: cover;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+
+h1 {
+    color:goldenrod;
+}
+
+#message-el {
+    font-size: 2rem;
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 18rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+    background: goldenrod;
+    font-weight: bold;
+    font-size: 2rem;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 10px;
+}
+
+
